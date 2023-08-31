@@ -2,6 +2,7 @@ body {
     margin: 10px;
 }
 
+/* the "#" is used to define an ID to target the styling to a single element*/
 #aboutSection {
     font-size: 30px;
 }
@@ -12,6 +13,7 @@ body {
     font-size: 30px;
 }
 
+/* the "." is used to define a class to target the styling to multiple elements */
 .projectItem a {
     text-decoration: none;
     color: black;
