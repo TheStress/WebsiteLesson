@@ -1,0 +1,24 @@
+body {
+    margin: 10px;
+}
+
+#aboutSection {
+    font-size: 30px;
+}
+
+#projectSection {
+    display: flex;
+    justify-content: space-between;
+    font-size: 30px;
+}
+
+.projectItem a {
+    text-decoration: none;
+    color: black;
+}
+
+.projectItem img {
+    object-fit: cover;
+    width: 300px;
+    height: 300px;
+}

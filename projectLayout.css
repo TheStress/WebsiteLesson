@@ -1,0 +1,17 @@
+body {
+    margin: 0px;
+}
+#projectSection {
+    display: flex;
+}
+
+#projectImage {
+    object-fit: cover;
+    width: 100%;
+    height: 400px;
+}
+
+#projectDescription {
+    padding: 20px;
+    font-size: 30px;
+}
